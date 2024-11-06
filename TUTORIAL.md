@@ -1,9 +1,9 @@
 ![iphone graphic](https://plus.unsplash.com/premium_photo-1721955487786-76802cbf0812?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 # Intro to Media Queries
-**Media queries** make responsive design possible. They allow you to apply specific CSS styles contingent on a media type, feature or both. Allowing you to change the page while considering the characteristics, such as the screen size or orientation, it will be viewed on.
+**Media queries** enable responsive design by applying specific CSS styles based on the media type. This allows you to adjust the appearance of a page according to characteristics like screen size or orientation.
 
->Utilizing `@media` we can wrap CSS rules that conditionally apply under specific conditions. 
+>Utilizing `@media` we can wrap CSS rules that apply under specific conditions. 
 
  Take for example a situation where you want a hotpink background that changes to lightblue when viewed on a mobile device. 
 
@@ -50,10 +50,10 @@ When the media query determins that the width is less than 480px it will compute
 ```
 Resulting in the background changing colors at widths below 480px.
 
-For more information about media queries check out the [MDN docs.](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 
 ![iphone graphic 2](https://plus.unsplash.com/premium_photo-1721955487745-a2c3aea86d1c?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
+For more information about media queries check out the [MDN docs.](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 
 
 
